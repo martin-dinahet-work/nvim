@@ -70,3 +70,6 @@ map("n", "<leader>lr", ":Lspsaga rename<CR>", opts)
 map("n", "<leader>lr", ":Lspsaga rename ++project<CR>", opts)
 map("n", "<leader>le", ":Lspsaga show_buf_diagnostics<CR>", opts)
 
+
+-- Scratchpad
+map("n", "<leader>cc", ":ScratchPad<CR>", opts)
