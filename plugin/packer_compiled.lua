@@ -79,11 +79,6 @@ _G.packer_plugins = {
     path = "/home/martin/.local/share/nvim/site/pack/packer/start/LuaSnip",
     url = "https://github.com/L3MON4D3/LuaSnip"
   },
-  ScratchPad = {
-    loaded = true,
-    path = "/home/martin/.local/share/nvim/site/pack/packer/start/ScratchPad",
-    url = "https://github.com/FraserLee/ScratchPad"
-  },
   ["bufferline.nvim"] = {
     loaded = true,
     path = "/home/martin/.local/share/nvim/site/pack/packer/start/bufferline.nvim",
