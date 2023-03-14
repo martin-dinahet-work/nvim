@@ -31,6 +31,7 @@ return require('packer').startup(function(use)
     use 'norcalli/nvim-colorizer.lua'
     use 'glepnir/lspsaga.nvim'
     use 'glepnir/dashboard-nvim'
+    use 'lewis6991/gitsigns.nvim'
 
     use {
         'VonHeikemen/lsp-zero.nvim',

@@ -15,5 +15,6 @@ require("plugins.vimwiki")
 require("plugins.comment")
 require("plugins.colorizer")
 require("plugins.dashboard")
+require("plugins.gitsigns")
 
 require("plugins.lsp")
