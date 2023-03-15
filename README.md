@@ -31,6 +31,7 @@ Please feel free to suggest changes and additions!
 - Beautiful UI with Dashboard, Nvim-tree, and Lualine
 - Git support and integration with Gitigns
 - In-editor color preview
+- Built-in formatting
 - ... and more to come soon!
 
 ## Plugins used:
