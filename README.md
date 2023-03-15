@@ -10,6 +10,11 @@ A custom Neovim config written in Lua with sane defaults and plugins.
 This is a work in progress. Some changes may occur.  
 Please feel free to suggest changes and additions!
 
+## Screenshots:
+[Home page](./homepage.png)
+[Lua project](./lua_project.png)
+[Terminal view](./terminal_view.png)
+
 ## Installation:
 1. Make a backup of your current Neovim config (optional):
     ``` console
