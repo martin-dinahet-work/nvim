@@ -22,6 +22,3 @@ require("lspsaga").setup({
         kind = {},
     },
 })
-
-local v = vim.cmd;
-v("autocmd BufWritePre <buffer> lua vim.lsp.buf.formatting_sync()")
