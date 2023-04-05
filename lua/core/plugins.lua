@@ -32,6 +32,8 @@ return require('packer').startup(function(use)
     use 'glepnir/lspsaga.nvim'
     use 'glepnir/dashboard-nvim'
     use 'lewis6991/gitsigns.nvim'
+    use 'sainnhe/gruvbox-material'
+    use 'lukas-reineke/indent-blankline.nvim'
 
     use {
         'VonHeikemen/lsp-zero.nvim',
