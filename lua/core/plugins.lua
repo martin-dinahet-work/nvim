@@ -34,6 +34,7 @@ return require('packer').startup(function(use)
     use 'lewis6991/gitsigns.nvim'
     use 'sainnhe/gruvbox-material'
     use 'lukas-reineke/indent-blankline.nvim'
+    use 'TimUntersberger/neogit'
 
     use {
         'VonHeikemen/lsp-zero.nvim',

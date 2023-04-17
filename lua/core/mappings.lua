@@ -10,7 +10,7 @@ map("n", "<C-k>", "<C-w>k", opts)
 map("n", "<C-l>", "<C-w>l", opts)
 map("n", "<leader>l", ":bnext<CR>", opts)
 map("n", "<leader>h", ":bprev<CR>", opts)
-map("n", "<C-m>", ":nohlsearch<CR>", opts)
+map("n", "<esc>", ":nohlsearch<CR>", opts)
 map("n", "<C-Up>", ":resize -2<CR>", opts)
 map("n", "<C-Down>", ":resize +2<CR>", opts)
 map("n", "<C-Left>", ":vertical resize -2<CR>", opts)
@@ -70,6 +70,6 @@ map("n", "<leader>lr", ":Lspsaga rename<CR>", opts)
 map("n", "<leader>lr", ":Lspsaga rename ++project<CR>", opts)
 map("n", "<leader>le", ":Lspsaga show_buf_diagnostics<CR>", opts)
 
-
--- Scratchpad
-map("n", "<leader>cc", ":ScratchPad<CR>", opts)
+-- Neogit
+map("n", "<leader>gg", ":lua require('neogit').open()<CR>", opts)
+map("n", "<leader>gs", ":lua require('neogit').open({kind='split'})<CR>", opts)
