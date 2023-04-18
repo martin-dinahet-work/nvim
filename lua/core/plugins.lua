@@ -35,6 +35,7 @@ return require('packer').startup(function(use)
     use 'sainnhe/gruvbox-material'
     use 'lukas-reineke/indent-blankline.nvim'
     use 'TimUntersberger/neogit'
+    use 'lewis6991/impatient.nvim'
 
     use {
         'VonHeikemen/lsp-zero.nvim',
