@@ -19,7 +19,6 @@ require("dashboard").setup({
 "",
 "",
 "",
-"",
         },
         center = {
             {
