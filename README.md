@@ -4,6 +4,7 @@
 - Neovim v0.8.x
 - a Nerd Font for your terminal
 - git
+- Nodejs and NPM (for installing language servers)
 
 ## Info
 A custom Neovim config written in Lua with sane defaults and plugins.
