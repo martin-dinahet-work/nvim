@@ -37,6 +37,7 @@ return require('packer').startup(function(use)
     use 'TimUntersberger/neogit'
     use 'lewis6991/impatient.nvim'
     use 'christoomey/vim-tmux-navigator'
+    use 'folke/tokyonight.nvim'
 
     use {
         'VonHeikemen/lsp-zero.nvim',

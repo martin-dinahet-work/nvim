@@ -6,7 +6,6 @@ require("core.plugins")
 require("plugins.impatient")
 
 require("plugins.lualine")
-require("plugins.catppuccin")
 require("plugins.treesitter")
 require("plugins.autopairs")
 require("plugins.autotag")
@@ -19,5 +18,7 @@ require("plugins.comment")
 require("plugins.colorizer")
 require("plugins.dashboard")
 require("plugins.gitsigns")
+
+require("plugins.colorschemes.tokyonight")
 
 require("plugins.lsp")
