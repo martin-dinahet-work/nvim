@@ -22,7 +22,7 @@ require("dashboard").setup({
         },
         center = {
             {
-                icon    = "󰍉  ",
+                icon    = "  ",
                 icon_hl = "Title",
                 desc    = "Find file                        ",
                 desc_hl = "String",
