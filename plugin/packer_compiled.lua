@@ -244,6 +244,11 @@ _G.packer_plugins = {
     path = "/home/martin/.local/share/nvim/site/pack/packer/start/toggleterm.nvim",
     url = "https://github.com/akinsho/toggleterm.nvim"
   },
+  ["vim-tmux-navigator"] = {
+    loaded = true,
+    path = "/home/martin/.local/share/nvim/site/pack/packer/start/vim-tmux-navigator",
+    url = "https://github.com/christoomey/vim-tmux-navigator"
+  },
   vimwiki = {
     loaded = true,
     path = "/home/martin/.local/share/nvim/site/pack/packer/start/vimwiki",
