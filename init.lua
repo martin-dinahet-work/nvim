@@ -18,6 +18,7 @@ require("plugins.comment")
 require("plugins.colorizer")
 require("plugins.dashboard")
 require("plugins.gitsigns")
+require("plugins.indentation")
 
 require("plugins.colorschemes.tokyonight")
 
